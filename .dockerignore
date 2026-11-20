@@ -1,0 +1,9 @@
+# Files Render should NOT copy into the image
+.git
+.github
+.env
+node_modules
+vendor
+tests
+storage/logs/*.log
+database/*.sqlite
